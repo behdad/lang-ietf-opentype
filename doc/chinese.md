@@ -4,7 +4,7 @@ The OpenType spec provides four language system tags for Chinese:
 
 * ZHH (Chinese, Hong Kong SAR), corresponding to the IETF tag **zh-HK**;
 * ZHP (Chinese Phonetic), corresponding approximately to the IETF tag **zh-Latn**;
-* ZHH (Chinese Simplified), corresponding to the IETF tag **zh-Hans**;
+* ZHS (Chinese Simplified), corresponding to the IETF tag **zh-Hans**;
 * ZHT (Chinese Traditional), corresponding to the IETF tag **zh-Hant**.
 
 Note that Hong Kong uses the traditional Chinese script.
